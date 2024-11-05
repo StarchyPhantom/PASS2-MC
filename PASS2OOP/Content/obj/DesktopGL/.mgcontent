@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/BG/Cobblestone_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/BG/Dirt_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/BG/Grass1_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/BG/Grass2_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/BG/MenuBG3.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Fonts/MinecraftBold.spritefont</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Fonts/MinecraftEvenings.spritefont</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Fonts/MinecraftRegular.spritefont</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/ArrowDown.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/ArrowUp.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Button.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Creeper_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Enderman_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Explode_200.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/IconDamage_32.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/IconFireRate_32.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/IconPoints_32.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/IconSpeed_32.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Pillager_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Shield_48.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/ShopDamageBoost_150.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/ShopFireRateBoost_150.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/ShopPointsBoost_150.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/ShopSpeedBoost_150.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/ShopTitle.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Skeleton_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Splat_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/StatsTitle.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Steve_64.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Title.png</File>
+    <File>C:/Users/benja/Desktop/ICS4/Assignments/PASS2OOP/PASS2OOP/Content/Sprites/Villager_64.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
